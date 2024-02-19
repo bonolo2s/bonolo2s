@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonolo2s&label=Profile%20views&color=0e75b6&style=flat" alt="bonolo2s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonolo2s" alt="bonolo2s" /></a> </p>
-
-- 🤝 I’m currently looking for **A career opportunity in email development and front-end development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/bonolo2s](https://github.com/bonolo2s)
 
 - 📫 How to reach me **bonololloyd003@gmail.com**
