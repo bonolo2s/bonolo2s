@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]
 <h1 align="center">Hi 👋, I'm Bonolo Lloyd Selowa</h1>
-<h3 align="center">I’m a passionate Software Developer who loves creating web applications. I’m solution-oriented, always learning, and truly obsessed with my work</h3>
+<h3 align="center">I’m a backend-focused Software Engineer who enjoys building scalable, well-structured systems. Solution-driven, always learning, and passionate about clean, reliable code.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonolo2s&label=Profile%20views&color=0e75b6&style=flat" alt="bonolo2s" /> </p>
